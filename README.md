@@ -7,3 +7,4 @@ if(a%2)==0 :
 else:
   print("{0} is Odd".format(a))
 exit  
+print("End Of Program")
